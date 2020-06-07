@@ -2,8 +2,7 @@
 //#define EOS_INTERRUPT_PIN      3  // INT1 on PD3, physical pin 5
 //#define COUNTER_PIN            5  // T1 on PD5,   physical pin 11
 //#define TWO_HUNDRED_HZ_PIN     6  // OC0A on PD6, physical pin 12
-//#define RAND_PULSER_REF_PIN    11 // OC2A on PB3, physical pin 17
-//#define RAND_PULSER_PIN        12 // PB4, physical pin 18
+//#define RAND_PULSER_PIN        11 // PB3, physical pin 17
 
 // ===== Global Variables =====
 uint8_t pulseWindowTime = 0;
